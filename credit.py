@@ -14,3 +14,4 @@ procent = input('Введите процент: ')
 
 pay_per_month = (int(credit)/ int(period) + int(credit)/100* int(procent)/12)
 print(f'Платеж составит {pay_per_month} рублей в месяц')
+print('Test git')
